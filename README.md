@@ -1,0 +1,2 @@
+# healthsystem
+welcome to heath management system cooked by rockyhandsm2k. this is two way programm for logging and retriving some two diffrent activities (exercising, diet) for three main clients(hardcoded). with this program we can simply create a log of patients and even yourself . the main function of this programm is not just to be able to logg or retrieve but to put the timestamp of every log created..do check out
